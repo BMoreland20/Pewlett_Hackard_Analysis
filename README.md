@@ -3,6 +3,7 @@ Overview of the analysis:
 In the beginning of this analysis we looked at the total number of employees per title who are reaching retirement age.  During the second half of the analysis we then looked at the employees who are ready to retire and eligible for mentorship.  These SQL queries were then exported to .csv files for later examination.
 
 Results:
+
 •	As seen in the query regarding the total number of people retiring from a given title Senior Engineers are going to need 25,916 new employees during this round of turnover see image.  ![This is an image](https://github.com/BMoreland20/Pewlett_Hackard_Analysis/blob/main/Images/Retiring%20Titles.png)
 
 •	Also worth noting from the same table Senor Staff will also be taking a very large hit in terms of turnover with 24,926 employees ready to leave the company for retirement see image above.
