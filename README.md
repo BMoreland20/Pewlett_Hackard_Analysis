@@ -16,6 +16,7 @@ Summary:
 1)	During the upcoming “Silver Tsunami” there will be 72,458 employees leaving the company for retirement.  To mitigate the effects of these employees I would suggest that that at least 74,500 employees be hired during this time.  The reason I suggest nearly 2,000 more employees is that we may not retain all new hires to the company and a built in cushion of additional employees will help lessen the impact of those that do not stay with Pewlett Hackard.
 	
 2)	There are not enough employees who are ready for the mentorship program to reduce the burden of the “Silver Tsunami”.  The total number of mentorship ready employees comes to 1,549, see image.
+
 ![This is an image](https://github.com/BMoreland20/Pewlett_Hackard_Analysis/blob/main/Images/mentorship_eligibilty_count.png)
 
 This can be quickly looked up from the following SQL query `SELECT COUNT (*) FROM mentorship_eligibilty`
