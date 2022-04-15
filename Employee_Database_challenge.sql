@@ -65,7 +65,7 @@ FROM retirement_titles
 WHERE to_date = '9999-01-01'
 ORDER BY emp_no, to_date DESC;
 
---bSanity Check
+-- Sanity Check
 SELECT * FROM unique_titles
 
 SELECT title, COUNT(*)
